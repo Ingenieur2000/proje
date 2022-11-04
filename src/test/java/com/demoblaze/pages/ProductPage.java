@@ -34,8 +34,5 @@ public class ProductPage extends BasePage {
 
             homeLink_loc.click();
 
-
-
-
         }
 }
